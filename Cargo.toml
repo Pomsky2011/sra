@@ -3,7 +3,7 @@ name = "sra"
 version = "0.1.0"
 edition = "2024"
 description = "SRA — Source Repositories for Applications"
-license = "MIT"
+license = "LGPL-3.0-or-later"
 
 [[bin]]
 name = "sra"
